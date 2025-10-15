@@ -4,17 +4,19 @@
     "url": "https://www.feuerwehr-bad-erlach.at",
     "icon": "https://www.feuerwehr-bad-erlach.at/wp-content/uploads/2020/07/cropped-Logo-Homepage-2.png",
     "slug": "homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 879,
-    "timeDay": 2063,
-    "timeWeek": 1175,
-    "timeMonth": 986,
+    "time": 880,
+    "timeDay": 1512,
+    "timeWeek": 1148,
+    "timeMonth": 985,
     "timeYear": 904,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-15": 11
+    }
   }
 ]
