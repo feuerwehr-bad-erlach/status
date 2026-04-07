@@ -4,7 +4,7 @@
     "url": "https://www.feuerwehr-bad-erlach.at",
     "icon": "https://www.feuerwehr-bad-erlach.at/wp-content/uploads/2020/07/cropped-Logo-Homepage-2.png",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1003,
     "timeYear": 1004,
     "dailyMinutesDown": {
+      "2026-04-07": 0,
       "2026-03-29": 17,
       "2026-03-14": 19,
       "2026-03-12": 194,
